@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   7b6473c85a2f48adaf23451a4d9fab39:
     parts: {}
+    work_id: D4067
     span:
-    - vol: 77
+    - base: 4c4e
       start: 0
       end: 110238
-    work_id: D4067
